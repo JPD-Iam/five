@@ -14,7 +14,7 @@
 #include <numpy/ndarrayobject.h>
 
 
-/* Cached typecodes for basic scalar types */
+/* Cached typecodes for basic scalar types  types*/
 static int tc_int8;
 static int tc_int16;
 static int tc_int32;
